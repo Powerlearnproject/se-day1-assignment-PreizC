@@ -1,0 +1,55 @@
+ASSIGNMENT-PLP-DAY-1
+Software Engineering deals with design, development, testing and maintainance of software systems.
+
+ASSIGNMENT-PLP-DAY-1
+Question 1.
+
+Software Engineering deals with design, development, testing and maintenance of software systems. Software engineering plays a vital role in the technology industry, it enable the creation of software programs that power various aspects of modern life e.g Healthcare, Communication, Entertainment etc
+
+Question 2.
+
+The Creation of Structured Programming (1960s-1970s): Description: Structured programming, pioneered by figures like Edsger Dijkstra and others, introduced principles such as sequence, selection, and iteration to improve the clarity and efficiency of code. This approach helped address issues related to "spaghetti code" by promoting a more organized and modular structure in software development. The Birth of Object-Oriented Programming (1980s): Description: Object-oriented programming (OOP) emerged as a significant advancement with the introduction of languages like Smalltalk and C++. OOP focuses on modeling software around objects that represent real-world entities, encapsulating data and behavior together. This paradigm facilitated better modularity, code reuse, and maintenance. The Agile Movement (2001): Description: The Agile Manifesto was published in 2001, advocating for iterative development, collaboration, and flexibility in software projects. Agile methodologies, such as Scrum and Kanban, emphasized adaptive planning and customer feedback, revolutionizing how software development teams approach project management and delivery. This shift helped teams respond more effectively to changing requirements and market demands. These milestones represent pivotal changes that have shaped the way software is developed, managed, and maintained.
+
+Question 3
+
+An overview of the phases of the Software Development Life Cycle (SDLC): Planning: Define the project scope, objectives, and resources. Create a project plan and timeline. Analysis: Gather and document detailed requirements from stakeholders and users. Design: Develop the system architecture and detailed design based on requirements. Development: Write and integrate code, building the software according to the design. Testing: Identify and fix bugs through various testing methods to ensure the software meets requirements. Deployment: Install and configure the software in the production environment and provide initial support. Maintenance: Perform ongoing support, bug fixes, and updates to adapt to changing needs and ensure continued functionality.
+
+Question 4:
+
+Waterfall Methodology: Characteristics: Linear and Sequential: Each phase (e.g., planning, analysis, design, development, testing, deployment, maintenance) follows the previous one. Documentation-Focused: Emphasizes thorough documentation and a structured approach. Fixed Scope: Changes are difficult to incorporate once the project is underway. When Appropriate: Scenario: A large, well-defined project with stable requirements, such as building a critical, compliance-driven enterprise system. For instance, developing a new regulatory compliance tool for a financial institution where requirements are unlikely to change. Agile Methodology: Characteristics: Iterative and Incremental: Development is done in small, iterative cycles (sprints), with frequent reassessment and adaptation. Flexible and Adaptive: Emphasizes customer feedback and adaptability to changes in requirements. Collaborative: Focuses on team collaboration and continuous delivery of functional software. When Appropriate: Scenario: A project with evolving requirements and a need for frequent updates, such as developing a new mobile app where user feedback and market trends can drive changes. For example, building a social media application where user preferences and features are likely to evolve rapidly. Comparison Summary: Waterfall is suited for projects with well-defined requirements and a need for rigid adherence to schedules and documentation, whereas Agile is ideal for projects requiring flexibility and iterative improvements based on user feedback and changing requirements.
+
+Question 5:
+
+Software Developer: Designs, writes, and maintains code to build functional and efficient software applications based on project requirements and specifications. Quality Assurance Engineer: Ensures the software meets quality standards by designing and executing test plans, identifying defects, and verifying that issues are resolved before release. Project Manager: Oversees the planning, execution, and delivery of software projects by managing resources, timelines, and communication among team members to ensure project goals are met.
+
+Question 6:
+
+Integrated Development Environments (IDEs) streamline the software development process by providing tools like code editors, debuggers, and compilers in a unified interface (e.g., Visual Studio Code), while Version Control Systems (VCS) like Git allow developers to track changes, collaborate efficiently, and manage code history, ensuring smooth teamwork and project management.
+
+Question 7:
+
+Managing Technical Debt: Accumulating quick fixes can lead to complex, hard-to-maintain code. Strategy: Regularly refactor code and prioritize addressing technical debt in the development cycle.
+
+Keeping Up with Rapidly Evolving Technologies: New tools and frameworks are constantly emerging. Strategy: Dedicate time for continuous learning and attend industry events or online courses to stay current.
+
+Collaborating in Distributed Teams: Working with remote teams can lead to communication gaps. Strategy: Use collaboration tools like Slack, establish clear communication protocols, and schedule regular check-ins to ensure alignment.
+
+Question 8:
+
+Unit Testing: Tests individual components or functions to ensure they work correctly in isolation, critical for catching bugs early in development.
+
+Integration Testing: Ensures that different modules or components work together as expected, important for detecting interface issues between modules. System Testing: Evaluates the entire system's functionality against specified requirements, ensuring the software meets overall quality standards.
+
+Acceptance Testing: Validates the software against user needs and requirements, crucial for confirming that the product is ready for release to end users.
+
+PART 2
+
+Prompt Engineering is about crafting questions or instrustions in a way that helps get the best responses from your robot or AI. Prompt Engineering makes interaction with an AI or Robot seamless, effective and precise.
+
+VAGUE prompt:
+
+How to cook Jellof Rice?
+
+Prompt Engineering:
+
+Explain briefly how to cook Jellof Rice?
